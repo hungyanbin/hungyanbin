@@ -3,6 +3,7 @@
 - medium: https://medium.com/@hung_yanbin
 - twitter: https://twitter.com/YanbinHung
 - facebook: https://www.facebook.com/103979297964549
+- linkedin: https://www.linkedin.com/in/yanbin-hung-94b350b7/
 
 # Public speaking
 - Android Taipei
@@ -50,3 +51,26 @@
 - Object oriented programming
 - Functional programming
 - Reactive programming
+
+# Bookshelf
+--finished
+Effective Java
+Thinking in Java
+Clean code
+Clean coder
+Clean Architecture
+Design pattern
+Refactor to pattern
+Working effectively with legacy code
+The art of Unit testing
+Agile practice? SOLID principle
+
+--reading
+Refactoring
+Reactive and Funcional domain modeling
+Man month myth
+
+--Draft
+Domain specific language
+TDD by example
+
