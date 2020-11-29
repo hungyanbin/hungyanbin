@@ -1,8 +1,15 @@
-# Links and socail media
-- medium: https://medium.com/@hung_yanbin
-- twitter: https://twitter.com/YanbinHung
-- facebook: https://www.facebook.com/103979297964549
-- linkedin: https://www.linkedin.com/in/yanbin-hung-94b350b7/
+
+# Technologies and Skills
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Refactoring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-TDD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Object_Oriented_Programming-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Functional_Programming-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Reactive_Programming-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 # Public speaking
 - Android Taipei
@@ -51,14 +58,6 @@
   + Part 6 ViewModel And LiveData: https://www.youtube.com/watch?v=DgXwdiuG1oQ
   + Part 10 Unit Test: https://www.youtube.com/watch?v=KWPUMSpqjrw
 
-# Skills:
-- XP
-  + Refactoring
-  + TTD
-- Object oriented programming
-- Functional programming
-- Reactive programming
-
 # Bookshelf
 - finished
   + Effective Java
@@ -83,5 +82,16 @@
 
 - Draft
   + Domain specific language
-  + TDD by example
+  + TDD by Example
+  
+# Links and socail media
+- [Twitter][1]
+- [LinkedIn][2]
+- [Medium][3]
 
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/YanbinHung
+[2]: https://www.linkedin.com/in/yanbin-hung-94b350b7/
+[3]: https://medium.com/@hung_yanbin
