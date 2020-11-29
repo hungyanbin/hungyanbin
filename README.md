@@ -28,7 +28,9 @@
   + https://devfest-tw.appspot.com/taipei/speaker
 - Google I/O extended 2018 Taipei
   + Kotlin in practice: https://www.slideshare.net/ssuser8674c1/kotlin-in-practice
-- Coscup 2020: https://coscup.org/2020/zh-TW/agenda/7YXDPD
+- Coscup 2020: 
+  + Topic: 手把手認識 Kotlin Flow: https://coscup.org/2020/zh-TW/agenda/7YXDPD
+  + Slide: https://docs.google.com/presentation/d/1e0MqnFBHj6u8McSoYnx1xIVpXWO5Fsd_nYAvhvljGjo/edit?usp=sharing
 - Functional Thuresday #80:
   + Topic: From Reactive to Functional
   + Slide: https://docs.google.com/presentation/d/1GYAslbl7Tar2mmNGQoFVWtlwXPsGX95QNQf36XI4kIw/edit?usp=sharing
@@ -43,6 +45,7 @@
   + repo: https://github.com/hungyanbin/FPworkshop
 - Android third party library: https://bng86.gitbooks.io/android-third-party-/content/
 - Android Unit testing: https://hungyanbin.gitbooks.io/android-unit-test/content/
+- Functional programming in Kotlin (第12屆鐵人賽佳作): https://ithelp.ithome.com.tw/users/20121700/ironman/3271
 
 # Skills:
 - XP
@@ -56,14 +59,18 @@
 - finished
   + Effective Java
   + Thinking in Java
+  + Kotlin in Action
   + Clean code
   + Clean coder
   + Clean Architecture
-  + Design pattern
-  + Refactor to pattern
+  + Design pattern Explained: A New Perspective on Object-Oriented Design
+  + Refactoring to pattern
   + Working effectively with legacy code
   + The art of Unit testing
-  + Agile practice? SOLID principle
+  + Agile Software Development: Principles, Patterns, and Practices
+  + Specification by Example
+  + Domain-Driven Design by Eric Evan
+  + Implementing Domain-Driven Design
 
 - reading
   + Refactoring
