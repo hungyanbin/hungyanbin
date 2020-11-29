@@ -1,5 +1,4 @@
 # Links and socail media
-- github: https://github.com/hungyanbin
 - medium: https://medium.com/@hung_yanbin
 - twitter: https://twitter.com/YanbinHung
 - facebook: https://www.facebook.com/103979297964549
@@ -46,6 +45,11 @@
 - Android third party library: https://bng86.gitbooks.io/android-third-party-/content/
 - Android Unit testing: https://hungyanbin.gitbooks.io/android-unit-test/content/
 - Functional programming in Kotlin (第12屆鐵人賽佳作): https://ithelp.ithome.com.tw/users/20121700/ironman/3271
+- Android 練功場
+  + Part 2 Android Layout: https://www.youtube.com/watch?v=v7U98G-a90c&t=6s
+  + Part 3 Activity & Fragment: https://www.youtube.com/watch?v=OAXs14K9Eos&t=9s
+  + Part 6 ViewModel And LiveData: https://www.youtube.com/watch?v=DgXwdiuG1oQ
+  + Part 10 Unit Test: https://www.youtube.com/watch?v=KWPUMSpqjrw
 
 # Skills:
 - XP
