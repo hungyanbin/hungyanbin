@@ -32,6 +32,9 @@
   + slide: https://docs.google.com/presentation/d/1gvcznoWZlwKEV4F4bQFcD56vPoKPczu4u2XS6kxKJEg/edit
 - Google devfest 2019: firechat 
   + https://devfest-tw.appspot.com/taipei/speaker
+- Google devfest 2022: Context Receiver 大解密
+  + website: https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
+  + slide: https://docs.google.com/presentation/d/1jilfovEB3E9R4F814Zw10f34vZsv7cNciWOCavBZnZU/edit?usp=sharing
 - Google I/O extended 2018 Taipei
   + Kotlin in practice: https://www.slideshare.net/ssuser8674c1/kotlin-in-practice
 - Coscup 2020: 
@@ -43,6 +46,11 @@
   + Video: https://www.youtube.com/watch?v=OkJHpTI7deA
 
 # Workshops and publication
+- [Book] 從0到0.99 Android 架構開發實戰：以便利貼應用程式為例
+<img src="https://user-images.githubusercontent.com/7949400/196122834-49081b89-db61-4670-9751-57e8f7da3d12.png" width="400">
+
+- Jetpack compose 從 0 到 1 繪製圖表
+  + Repo: https://github.com/hungyanbin/MopconComposeWorkshop
 - Functional Programming workshop
   + part1: https://docs.google.com/presentation/d/1dr7EC9hAMNXU2jzGlRKBZ4Af7BfIxUIfqbBjDSnsqjI/edit?usp=sharing
   + part2: https://docs.google.com/presentation/d/1qr4KX2IEggcJ_ga4K6MsNaT2_ZY3ZMyQ28V7aRQKE6M/edit?usp=sharing
@@ -52,37 +60,13 @@
 - Android third party library: https://bng86.gitbooks.io/android-third-party-/content/
 - Android Unit testing: https://hungyanbin.gitbooks.io/android-unit-test/content/
 - Functional programming in Kotlin (第12屆鐵人賽佳作): https://ithelp.ithome.com.tw/users/20121700/ironman/3271
+- Jetpack Compose X Android Architecture X Functional Reactive Programming (第13屆鐵人賽佳作): https://ithelp.ithome.com.tw/users/20121700/ironman/4041
 - Android 練功場
   + Part 2 Android Layout: https://www.youtube.com/watch?v=v7U98G-a90c&t=6s
   + Part 3 Activity & Fragment: https://www.youtube.com/watch?v=OAXs14K9Eos&t=9s
   + Part 6 ViewModel And LiveData: https://www.youtube.com/watch?v=DgXwdiuG1oQ
   + Part 10 Unit Test: https://www.youtube.com/watch?v=KWPUMSpqjrw
 
-# Bookshelf
-- finished
-  + Effective Java
-  + Thinking in Java
-  + Kotlin in Action
-  + Clean code
-  + Clean coder
-  + Clean Architecture
-  + Design pattern Explained: A New Perspective on Object-Oriented Design
-  + Refactoring to pattern
-  + Working effectively with legacy code
-  + The art of Unit testing
-  + Agile Software Development: Principles, Patterns, and Practices
-  + Specification by Example
-  + Domain-Driven Design by Eric Evan
-  + Implementing Domain-Driven Design
-
-- reading
-  + Refactoring
-  + Reactive and Funcional domain modeling
-  + Man month myth
-
-- Draft
-  + Domain specific language
-  + TDD by Example
   
 # Links and socail media
 - [Twitter][1]
